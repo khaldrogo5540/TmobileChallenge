@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TmobileChallenge</string>
+    <string name="large_text">
+        This is large description </string>
+    <string name="image_description">Some image</string>
+</resources>
